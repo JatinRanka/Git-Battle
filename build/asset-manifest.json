@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Git-Battle/static/css/main.3c491d45.chunk.css",
+    "main.js": "/Git-Battle/static/js/main.3d324834.chunk.js",
+    "main.js.map": "/Git-Battle/static/js/main.3d324834.chunk.js.map",
+    "runtime-main.js": "/Git-Battle/static/js/runtime-main.1a2c243a.js",
+    "runtime-main.js.map": "/Git-Battle/static/js/runtime-main.1a2c243a.js.map",
+    "static/js/2.0f17d874.chunk.js": "/Git-Battle/static/js/2.0f17d874.chunk.js",
+    "static/js/2.0f17d874.chunk.js.map": "/Git-Battle/static/js/2.0f17d874.chunk.js.map",
+    "index.html": "/Git-Battle/index.html",
+    "precache-manifest.2e92e5c39a5ba47abb23c5d79f8d8cac.js": "/Git-Battle/precache-manifest.2e92e5c39a5ba47abb23c5d79f8d8cac.js",
+    "service-worker.js": "/Git-Battle/service-worker.js",
+    "static/css/main.3c491d45.chunk.css.map": "/Git-Battle/static/css/main.3c491d45.chunk.css.map",
+    "static/media/logo.svg": "/Git-Battle/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a2c243a.js",
+    "static/js/2.0f17d874.chunk.js",
+    "static/css/main.3c491d45.chunk.css",
+    "static/js/main.3d324834.chunk.js"
+  ]
+}

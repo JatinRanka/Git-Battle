@@ -1,0 +1,23 @@
+.SelectionHeader{
+    text-align: center;
+    clear: both;
+    height: 60px;
+    /* border: solid 2px black; */
+    /* margin: 30px; */
+    
+}
+
+.HeaderOption{
+    float: left;
+    position: relative;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.Body{
+    /* margin-top: 20px; */
+}
+
+.BattlePage{
+    clear: both;
+}
