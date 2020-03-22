@@ -1,1 +1,1 @@
-https://jatinranka.github.io/Git-Battle/
+https://gitbattle-jatin.herokuapp.com/
